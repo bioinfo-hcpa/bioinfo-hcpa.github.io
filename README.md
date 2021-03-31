@@ -1,1 +1,3 @@
-# bioinfo-hcpa
+# README
+
+Repository for the lab page
